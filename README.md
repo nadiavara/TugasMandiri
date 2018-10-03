@@ -12,18 +12,18 @@ main (){
 	int nilai [100];
 	float rata;
 	
-	cout<<"HAY LUR HEHEHE"<<endl;
+	cout<<"HAY BRO & SIS "<<endl;
 	cout<<"***********************"<<endl;
-	cout<<"MENGHITUNG NILAI RATA-RATA"<<endl;
+	cout<<"HITUNG NILAI RATA-RATA MU KUY"<<endl;
 	cout<<"***********************"<<endl;
 	getch();
 	system("cls");
 	cout<<"Masukkan jumlah nilaimu"<<endl;
-	cout<<"Total Nilaiku :";cin>>r;
+	cout<<"Nilaiku Ada =";cin>>r;
 	system("cls");
 	for (i=1;i<=r;i++);
 	{
-		cout<<"Nilaiku"<<i<<"=";cin>>nilai[i];
+		cout<<"Nilai saya"<<i<<"=";cin>>nilai[i];
 		total=total+nilai[i];
 	}
 	system("cls");
@@ -38,8 +38,8 @@ main (){
 	}
 	cout<<"|__|_______|"<<endl;
 	rata=total/r;
-	cout<<"Total Nilaimu Adalah"<<total<<endl;
-	cout<<"Rata Rata Nilai Kamu ="<<rata<<endl;
+	cout<<"Total Nilai Kamu Adalah"<<total<<endl;
+	cout<<"Rata Rata Kamu ="<<rata<<endl;
 	
 	getch();
 	}
