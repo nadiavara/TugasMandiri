@@ -1,5 +1,5 @@
 # TugasMandiri
-Tugas Mandiri Hal.13 No.2 standar deviasi
+Tugas Mandiri Hal.13 No.1
 
 #include <iostream>
 #include <stdio.h>
